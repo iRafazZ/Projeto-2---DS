@@ -1,0 +1,16 @@
+D:\Projeto2 - Financeira\Financeira\bin\Debug\net5.0\Financeira.exe
+D:\Projeto2 - Financeira\Financeira\bin\Debug\net5.0\Financeira.deps.json
+D:\Projeto2 - Financeira\Financeira\bin\Debug\net5.0\Financeira.runtimeconfig.json
+D:\Projeto2 - Financeira\Financeira\bin\Debug\net5.0\Financeira.runtimeconfig.dev.json
+D:\Projeto2 - Financeira\Financeira\bin\Debug\net5.0\Financeira.dll
+D:\Projeto2 - Financeira\Financeira\bin\Debug\net5.0\ref\Financeira.dll
+D:\Projeto2 - Financeira\Financeira\bin\Debug\net5.0\Financeira.pdb
+D:\Projeto2 - Financeira\Financeira\obj\Debug\net5.0\Financeira.csproj.AssemblyReference.cache
+D:\Projeto2 - Financeira\Financeira\obj\Debug\net5.0\Financeira.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeto2 - Financeira\Financeira\obj\Debug\net5.0\Financeira.AssemblyInfoInputs.cache
+D:\Projeto2 - Financeira\Financeira\obj\Debug\net5.0\Financeira.AssemblyInfo.cs
+D:\Projeto2 - Financeira\Financeira\obj\Debug\net5.0\Financeira.csproj.CoreCompileInputs.cache
+D:\Projeto2 - Financeira\Financeira\obj\Debug\net5.0\Financeira.dll
+D:\Projeto2 - Financeira\Financeira\obj\Debug\net5.0\ref\Financeira.dll
+D:\Projeto2 - Financeira\Financeira\obj\Debug\net5.0\Financeira.pdb
+D:\Projeto2 - Financeira\Financeira\obj\Debug\net5.0\Financeira.genruntimeconfig.cache
